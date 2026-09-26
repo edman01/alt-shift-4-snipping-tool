@@ -1,6 +1,6 @@
 # Alt + Shift + 4 Snipping Tool shortcut for Windows
 
-Want a Mac-style area screenshot on Windows? Press **Alt + Shift + 4**, drag over the area you want, and paste the screenshot from your clipboard. This tiny app sends Windows' built-in **Win + Shift + S** shortcut for you.
+Want a Mac-style area screenshot on Windows? Press and release **Alt + Shift + 4**, drag over the area you want, and paste the screenshot from your clipboard. This tiny app opens Windows screen snipping directly, without sending additional keyboard shortcuts.
 
 Works on Windows 10 and 11 (64-bit). It needs no administrator access.
 
